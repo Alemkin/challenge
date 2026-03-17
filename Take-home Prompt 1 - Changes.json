@@ -1,0 +1,429 @@
+[
+  {
+    "_id": "5abd1ebe77f0912d2770082b",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "UPDATE",
+    "date": "2018-02-01",
+    "status": "ACTIVE",
+    "data": { "title": "CFO", "promotionType": "PROMOTION" },
+    "createAt": "2018-03-29T17:13:34.322+0000"
+  },
+  {
+    "_id": "5a13d80dcfed7957fe6c04b7",
+    "jobId": "5a13d80dcfed7957fe6c04a5",
+    "type": "UPDATE",
+    "date": "2016-11-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5a13d80dcfed7957fe6c04a2"
+    },
+    "createAt": "2017-11-21T07:38:53.636+0000"
+  },
+  {
+    "_id": "5a13d80dcfed7957fe6c04a4",
+    "jobId": "5a13d80dcfed7957fe6c04a2",
+    "type": "HIRE",
+    "date": "2016-11-02",
+    "status": "ACTIVE",
+    "data": { "personId": "5a13d80dcfed7957fe6c0498" },
+    "createAt": "2017-11-21T07:38:53.193+0000"
+  },
+  {
+    "_id": "5aea72efaa13f14226f53e64",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "DELETE",
+    "date": "2021-02-01",
+    "status": "ACTIVE",
+    "createAt": "2021-02-01T02:24:47.703+0000"
+  },
+  {
+    "_id": "5a13d80dcfed7957fe6c04a6",
+    "jobId": "5a13d80dcfed7957fe6c04a5",
+    "type": "CREATE",
+    "date": "2016-11-01",
+    "status": "ACTIVE",
+    "data": { "title": "CTO", "comp": { "currency": "USD", "base": 175000 } },
+    "createAt": "2017-11-21T07:38:53.243+0000"
+  },
+  {
+    "_id": "5cc733cb69c8aa4637693d34",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "UPDATE",
+    "date": "2016-03-21",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5a13d80dcfed7957fe6c04a5"
+    },
+    "createAt": "2016-03-21T16:29:05.117+0000"
+  },
+  {
+    "_id": "5fa7fd2331664d3a6450e8bc",
+    "jobId": "5fa4589067ea783ee758efc9",
+    "type": "UPDATE",
+    "date": "2017-12-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5a13d80fcfed7957fe6c0511"
+    },
+    "createAt": "2017-12-02T10:38:16.123+0000"
+  },
+  {
+    "_id": "5b11a077bd35a9700cc9abc1",
+    "jobId": "5cdc34b777f091381f10d8b7",
+    "type": "DEPART",
+    "date": "2018-06-02",
+    "status": "ACTIVE",
+    "data": {
+      "personId": "5a13d80dcfed7957fe6c0495",
+      "departType": "VOLUNTARY"
+    },
+    "createAt": "2018-06-02T19:37:27.441+0000"
+  },
+  {
+    "_id": "60346b34c9bcdc4e7dec3c39",
+    "jobId": "60346b34c9bcdc4e7dec3c38",
+    "type": "CREATE",
+    "date": "2018-05-01",
+    "status": "ACTIVE",
+    "data": {
+      "title": "Accounting Intern",
+      "comp": { "currency": "USD", "base": 25000 }
+    },
+    "createAt": "2018-05-01T20:31:44.002+0000"
+  },
+  {
+    "_id": "5fa459af67ea78603c3faa29",
+    "jobId": "5fa4589067ea783ee758efc9",
+    "type": "UPDATE",
+    "date": "2018-06-01",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 125000 } },
+    "createAt": "2018-06-01T17:30:32.175+0000"
+  },
+  {
+    "_id": "5b11a077bd35a9700cc95bd4",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "DEPART",
+    "date": "2021-01-01",
+    "status": "ACTIVE",
+    "data": {
+      "personId": "5a13d80dcfed7957fe6c049d",
+      "departType": "VOLUNTARY"
+    },
+    "createAt": "2021-01-01T19:37:27.441+0000"
+  },
+  {
+    "_id": "5fa45867b70e39710762adc6",
+    "jobId": "600077a031664d20cd7d19b6",
+    "type": "CREATE",
+    "date": "2018-04-01",
+    "status": "ACTIVE",
+    "data": {
+      "title": "Junior Accountant",
+      "comp": { "currency": "USD", "base": 56000 }
+    },
+    "createAt": "2018-04-01T20:31:44.002+0000"
+  },
+  {
+    "_id": "5ce0027dbd35a92bd4421017",
+    "jobId": "5cdc34b777f091381f10d8b7",
+    "type": "HIRE",
+    "date": "2018-02-03",
+    "status": "ACTIVE",
+    "data": { "personId": "5a13d80dcfed7957fe6c0495" },
+    "createAt": "2018-02-03T11:34:56.660+0000"
+  },
+  {
+    "_id": "5cc733cb69c8aa4637693b8a",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "UPDATE",
+    "date": "2019-04-29",
+    "status": "ACTIVE",
+    "data": { "fields": { "managerNotes": "Above average performance" } },
+    "createAt": "2019-04-29T17:26:35.167+0000"
+  },
+  {
+    "_id": "5cc733cb69c8aa4637693b8b",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "UPDATE",
+    "date": "2019-04-30",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 400000 } },
+    "createAt": "2019-04-29T17:26:35.167+0000"
+  },
+  {
+    "_id": "5fa4587067ea783ee758efc7",
+    "jobId": "600077a031664d20cd7d19b6",
+    "type": "UPDATE",
+    "date": "2018-04-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5fa4589067ea783ee758efc9"
+    },
+    "createAt": "2018-04-02T10:38:16.123+0000"
+  },
+  {
+    "_id": "5cc32be5bd35a938e73640e4",
+    "jobId": "5a13d80dcfed7957fe6c04a5",
+    "type": "UPDATE",
+    "date": "2019-04-26",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 210000 } },
+    "createAt": "2019-04-26T16:03:49.377+0000"
+  },
+  {
+    "_id": "5fa4589731664d5b5f660b27",
+    "jobId": "5fa4589067ea783ee758efc9",
+    "type": "HIRE",
+    "date": "2017-12-03",
+    "status": "ACTIVE",
+    "data": { "personId": "5e66904854547b54be928fa8" },
+    "createAt": "2017-12-03T11:34:56.660+0000"
+  },
+  {
+    "_id": "5a13d80fcfed7957fe6c0512",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "CREATE",
+    "date": "2017-10-01",
+    "status": "ACTIVE",
+    "data": {
+      "title": "VP of Finance",
+      "comp": {
+        "currency": "USD",
+        "base": 180000,
+        "grantShares": 50000,
+        "grantType": "ISO"
+      }
+    },
+    "createAt": "2017-11-21T07:38:55.346+0000"
+  },
+  {
+    "_id": "603cf380c9bcdc1246cafad4",
+    "jobId": "5fa45867b70e39710762adc5",
+    "type": "UPDATE",
+    "date": "2018-03-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5fa4589067ea783ee758efc9"
+    },
+    "createAt": "2018-03-02T10:38:16.123+0000"
+  },
+  {
+    "_id": "60346b3996f6232a121c1c89",
+    "jobId": "60346b34c9bcdc4e7dec3c38",
+    "type": "UPDATE",
+    "date": "2018-05-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5cdc34b777f091381f10d8b7"
+    },
+    "createAt": "2018-05-02T10:38:16.123+0000"
+  },
+  {
+    "_id": "60350a7f23bb740dc2ffc126",
+    "jobId": "60346b34c9bcdc4e7dec3c38",
+    "type": "HIRE",
+    "date": "2018-05-03",
+    "status": "ACTIVE",
+    "data": { "personId": "5a13d80ccfed7957fe6c0485" },
+    "createAt": "2018-05-03T11:34:56.660+0000"
+  },
+  {
+    "_id": "603f967531664d7400bd8212",
+    "jobId": "5fa45867b70e39710762adc5",
+    "type": "UPDATE",
+    "date": "2018-06-01",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 65000 } },
+    "createAt": "2018-06-01T17:30:32.175+0000"
+  },
+  {
+    "_id": "5fba72cdb70e393e03178fe2",
+    "jobId": "604fb79923bb744ef905b07a",
+    "type": "UPDATE",
+    "date": "2018-06-01",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 125000 } },
+    "createAt": "2018-06-01T17:30:32.175+0000"
+  },
+  {
+    "_id": "5fb9215131664d4df88a7b66",
+    "jobId": "604fb79923bb744ef905b07a",
+    "type": "UPDATE",
+    "date": "2018-01-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5a13d80fcfed7957fe6c0511"
+    },
+    "createAt": "2018-01-02T14:56:02.660+0000"
+  },
+  {
+    "_id": "603ba1f723bb74650b0353ad",
+    "jobId": "5fa45867b70e39710762adc5",
+    "type": "CREATE",
+    "date": "2018-03-01",
+    "status": "ACTIVE",
+    "data": {
+      "title": "Junior Accountant",
+      "comp": { "currency": "USD", "base": 55000 }
+    },
+    "createAt": "2018-03-01T20:31:44.002+0000"
+  },
+  {
+    "_id": "5fa4589067ea783ee758efca",
+    "jobId": "5fa4589067ea783ee758efc9",
+    "type": "CREATE",
+    "date": "2017-12-01",
+    "status": "ACTIVE",
+    "data": {
+      "title": "Senior Accountant",
+      "comp": { "currency": "USD", "base": 100000 }
+    },
+    "createAt": "2017-12-01T09:33:52.020+0000"
+  },
+  {
+    "_id": "5cdd5fd469c8aa29c374546b",
+    "jobId": "5cdc34b777f091381f10d8b7",
+    "type": "UPDATE",
+    "date": "2018-02-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5fa4589067ea783ee758efc9"
+    },
+    "createAt": "2018-02-02T10:38:16.123+0000"
+  },
+  {
+    "_id": "5cc9f65577f0910801c9d287",
+    "jobId": "5a13d80dcfed7957fe6c04a5",
+    "type": "UPDATE",
+    "date": "2019-05-01",
+    "status": "INACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 200000 } },
+    "createAt": "2019-05-01T04:37:24.353+0000",
+    "statusAt": "2020-04-26T16:03:49.377+0000"
+  },
+  {
+    "_id": "5fa55a3231664d299868d555",
+    "jobId": "5fa45867b70e39710762adc5",
+    "type": "HIRE",
+    "date": "2018-03-05",
+    "status": "ACTIVE",
+    "data": { "personId": "5a13d80ccfed7957fe6c0494" },
+    "createAt": "2018-03-05T11:34:56.660+0000"
+  },
+  {
+    "_id": "5b057b70bd35a969815f4e52",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "UPDATE",
+    "date": "2017-10-02",
+    "status": "ACTIVE",
+    "data": {
+      "managerId": "5a13d80dcfed7957fe6c04a2"
+    },
+    "createAt": "2017-11-21T07:39:25.374+0000"
+  },
+  {
+    "_id": "5a13d80dcfed7957fe6c04a8",
+    "jobId": "5a13d80dcfed7957fe6c04a5",
+    "type": "HIRE",
+    "date": "2016-11-03",
+    "status": "ACTIVE",
+    "data": { "personId": "5a13d80ccfed7957fe6c0484" },
+    "createAt": "2017-11-21T07:38:53.372+0000"
+  },
+  {
+    "_id": "5b1182b877f0916dd5770a15",
+    "jobId": "5a13d80dcfed7957fe6c04a2",
+    "type": "UPDATE",
+    "date": "2018-06-01",
+    "status": "ACTIVE",
+    "data": {
+      "comp": {
+        "currency": "USD",
+        "base": 300000,
+        "grantShares": 20000,
+        "grantType": "ISO"
+      }
+    },
+    "createAt": "2018-06-01T17:30:32.175+0000"
+  },
+  {
+    "_id": "5cc733cb69c8aa4637693b8c",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "UPDATE",
+    "date": "2019-04-30",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 450000 } },
+    "createAt": "2019-04-29T17:26:35.168+0000"
+  },
+  {
+    "_id": "5cdc351dbd35a92bd4411460",
+    "jobId": "5cdc34b777f091381f10d8b7",
+    "type": "CREATE",
+    "date": "2018-02-01",
+    "status": "ACTIVE",
+    "data": {
+      "title": "Junior Accountant",
+      "comp": { "currency": "USD", "base": 50000 }
+    },
+    "createAt": "2018-02-01T20:31:44.002+0000"
+  },
+  {
+    "_id": "5ce3f7ef77f091381f116fd6",
+    "jobId": "5cdc34b777f091381f10d8b7",
+    "type": "UPDATE",
+    "date": "2018-06-01",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 60000 } },
+    "createAt": "2018-06-01T17:30:32.175+0000"
+  },
+  {
+    "_id": "5fa55a3231664d299868d462",
+    "jobId": "600077a031664d20cd7d19b6",
+    "type": "HIRE",
+    "date": "2018-04-03",
+    "status": "ACTIVE",
+    "data": { "personId": "5a13d80dcfed7957fe6c0499" },
+    "createAt": "2018-04-03T11:34:56.660+0000"
+  },
+  {
+    "_id": "5a13d80dcfed7957fe6c04a3",
+    "jobId": "5a13d80dcfed7957fe6c04a2",
+    "type": "CREATE",
+    "date": "2016-11-01",
+    "status": "ACTIVE",
+    "data": { "title": "CEO", "comp": { "currency": "USD", "base": 250000 } },
+    "createAt": "2017-11-21T07:38:53.120+0000"
+  },
+  {
+    "_id": "5cf0799c69c8aa3fe6dbff56",
+    "jobId": "5a13d80dcfed7957fe6c04a5",
+    "type": "UPDATE",
+    "date": "2019-05-30",
+    "status": "ACTIVE",
+    "data": { "comp": { "currency": "USD", "base": 250000 } },
+    "createAt": "2019-05-31T00:47:24.358+0000"
+  },
+  {
+    "_id": "5a13d80fcfed7957fe6c0514",
+    "jobId": "5a13d80fcfed7957fe6c0511",
+    "type": "HIRE",
+    "date": "2017-10-03",
+    "announceDate": "2017-09-02",
+    "status": "ACTIVE",
+    "data": { "personId": "5a13d80dcfed7957fe6c049d" },
+    "createAt": "2017-11-21T07:40:55.375+0000"
+  },
+  {
+    "_id": "5fb67dca67ea7865cac7f37e",
+    "jobId": "604fb79923bb744ef905b07a",
+    "type": "CREATE",
+    "date": "2018-01-01",
+    "status": "ACTIVE",
+    "data": {
+      "title": "Senior Accountant",
+      "comp": { "currency": "USD", "base": 100000 }
+    },
+    "createAt": "2018-01-01T12:57:22.846+0000"
+  }
+]

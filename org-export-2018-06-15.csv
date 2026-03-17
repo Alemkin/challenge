@@ -1,0 +1,10 @@
+jobId,title,personName,managerId,baseSalary
+5a13d80dcfed7957fe6c04a2,CEO,Rose Radu,,300000
+5a13d80fcfed7957fe6c0511,CFO,Samson Oren,5a13d80dcfed7957fe6c04a2,180000
+5fa4589067ea783ee758efc9,Senior Accountant,Jane Smith,5a13d80fcfed7957fe6c0511,125000
+5cdc34b777f091381f10d8b7,Junior Accountant,Open,5fa4589067ea783ee758efc9,60000
+60346b34c9bcdc4e7dec3c38,Accounting Intern,Devi Dardani,5cdc34b777f091381f10d8b7,25000
+600077a031664d20cd7d19b6,Junior Accountant,Essie Karlie,5fa4589067ea783ee758efc9,56000
+5fa45867b70e39710762adc5,Junior Accountant,Gabriele Barber,5fa4589067ea783ee758efc9,65000
+604fb79923bb744ef905b07a,Senior Accountant,Open,5a13d80fcfed7957fe6c0511,125000
+5a13d80dcfed7957fe6c04a5,CTO,Maye Jochbed,5a13d80dcfed7957fe6c04a2,175000
